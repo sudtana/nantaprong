@@ -123,9 +123,11 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 20%;
 }
-
+.logo {
+	height: 20%;
+}
 .primary-info {
 	height: 15%;
 }
@@ -147,7 +149,7 @@ img.profile-pic {
     font-weight: 400;
     color: #f3f3f3;
     font-size: 25px;
-    text-align: left;
+    text-align: center;
 }
 
 .text-title-company {
@@ -155,7 +157,7 @@ img.profile-pic {
     font-weight: 200;
     color: #f3f3f3;
     font-size: 20px;
-    text-align: left;
+    text-align: center;
 }
 
 .text-detail {
