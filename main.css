@@ -170,18 +170,17 @@ img.profile-pic {
 }
 
 .button {
-	border-radius: 10px;
+	border-radius: 5px;
 	background-color: #4F5D31;
 	height: 48px;
 	width: 200px;
 	padding-left: 24px;
-	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Lato', sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight: 800;
 }
 
 @media screen and (max-width: 600px) {
