@@ -134,7 +134,7 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-black {
+.bg-color-grey {
 	background-color: ##333333;
 }
 
@@ -146,21 +146,21 @@ img.profile-pic {
     font-family: 'Helvetica', sans-serif;
     font-weight: 400;
     color: #000000;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Helvetica', sans-serif;
     font-weight: 200;
     color: #000000;
-    font-size: 40px;
+    font-size: 10px;
 }
 
 .text-detail {
     font-family: 'Helvetica', sans-serif;
     font-weight: 300;
     color: #000000;
-    font-size: 40px;
+    font-size: 10px;
 }
 
 .bottom {
