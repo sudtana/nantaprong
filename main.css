@@ -123,7 +123,7 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 20%;
 }
 .primary-info {
 	height: 15%;
@@ -184,8 +184,8 @@ img.profile-pic {
 	
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
   }
 }
 
