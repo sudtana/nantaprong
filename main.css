@@ -34,9 +34,9 @@ img {
 }
 
 img.logo-pic {
-	height: 20%;
-	width: 20%;
-	border-radius: 5%;
+	height: 50%;
+	width: 50%;
+	object-fit: cover;
 }
 
 img.profile-pic {
