@@ -34,8 +34,8 @@ img {
 }
 
 img.logo-pic {
-	height: 50%;
-	width: 50%;
+	height: 100px;
+	width: 400px;
 	object-fit: cover;
 }
 
